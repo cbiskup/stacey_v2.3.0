@@ -4,6 +4,12 @@
 .AppleDouble
 .LSOverride
 
+# App
+app/_cache/*
+!app/_cache/.gitignore
+logs
+
+
 # Icon must end with two \r
 Icon
 
